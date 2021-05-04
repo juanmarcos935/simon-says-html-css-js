@@ -1,8 +1,6 @@
 <h1>TL;DR for this repo:</h1>
 <div class="flex-container">
-  <img src="https://es.wikipedia.org/wiki/HTML5#/media/Archivo:HTML5_logo_and_wordmark.svg" height="100" width="100">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/726px-CSS3_logo_and_wordmark.svg.png" height="100" width="130">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" height="100" width="100">
+  <img src="http://www.cursosgis.com/wp-content/uploads/2017/06/lenguajes_1.png">
 </div>
 <ul>
   <li><h4>Technologies used:</h4>HTML, CSS, JavaScript</li>
