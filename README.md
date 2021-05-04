@@ -1,6 +1,8 @@
 <h1>TL;DR for this repo:</h1>
 <div class="flex-container">
   <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png" height="100" width="100">
+  <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" height="100" width="100">
+  <img src="https://cdn.pixabay.com/photo/2015/04/23/17/41/javascript-736400_1280.png" height="100" width="100">
 </div>
 <ul>
   <li><h4>Technologies used:</h4>HTML, CSS, JavaScript</li>
