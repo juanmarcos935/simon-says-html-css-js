@@ -1,6 +1,6 @@
 <h1>TL;DR for this repo:</h1>
 <div class="flex-container">
-  <img src="https://www.pngitem.com/pimgs/m/23-237369_html5-and-css3-transparent-background-html-logo-hd.png">
+  <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png" height="100" width="100">
 </div>
 <ul>
   <li><h4>Technologies used:</h4>HTML, CSS, JavaScript</li>
