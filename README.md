@@ -8,7 +8,7 @@
   <li><h4>Technologies used:</h4>HTML, CSS, JavaScript</li>
   <li><h4>Approximate date:</h4>First semester of 2020</li>
   <li><h4>Purpose:</h4>The goal of this personal project was to learn the basics of HTML, CSS and JS writing a simple game like Simon Says. It has 10 levels.</li>
-  <li><h4>Deployment:</h4>You can see the app running live <a href="https://simon-says-html-css-js.herokuapp.com/" target="_blank" rel="noopener noreferrer">clicking here</a></li>
+  <li><h4>Deployment:</h4>You can see the app running live <a href="https://juanmarcosdev.github.io/simon-says-html-css-js/" target="_blank" rel="noopener noreferrer">clicking here</a></li>
   <li><h4>Preview:</h4></li>
 </ul>
 <p align="center">
